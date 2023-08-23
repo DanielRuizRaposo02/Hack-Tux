@@ -12,9 +12,9 @@ Realizar una prueba de penetración externa de alcance completo en la red de For
 
 La prueba debe realizarse en los siguientes dominios y rangos de red:
 
-    "External" facing target host: 192.168.68.166
-    Rango de red interno: 10.10.10.0/24
-    Rango de red interno: 10.10.20.0/24
+    Rango de red interno: 192.168.1.136
+    Rango de red interno: 192.168.1.139
+    Rango de red interno: 192.168.1.140
 
 Se permiten técnicas de prueba automatizadas, como la enumeración y el escaneo de vulnerabilidades, siempre y cuando no causen interrupciones del servicio. Las siguientes acciones están fuera del alcance de la evaluación:
 
